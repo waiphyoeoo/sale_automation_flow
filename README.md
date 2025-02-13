@@ -5,7 +5,7 @@ This module works by confirming the sale, auto validating the delivery, auto con
 
 ## Installation
 
-Install my-project with npm
+Install my-project
 
 ```bash
   install odoo version enterprise 15
